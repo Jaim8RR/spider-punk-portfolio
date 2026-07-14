@@ -42,8 +42,7 @@ export default function Skills() {
           >
             Sin depender de frameworks pesados. Diseño con CSS Vanilla, Flexbox
             y estados asíncronos de React para crear sistemas adaptables al
-            100%. Mi framework de diseño propio usa Glassmorphism y transiciones
-            sin recargas.
+            100%.
           </Card>
 
           <Card
